@@ -1,5 +1,5 @@
 ![image](https://github.com/AITTCOIN/Special_rewards/assets/161400084/98bf2824-10dc-4515-b5b2-0ede8cb6187a)
-
+AVeqSWkN1Ao8HBrNwCoHu4UxA8n4YNc36P，遇到矿池停机
 
 ### AITT Mining Pool Downtime Compensation Event
 
@@ -17,7 +17,7 @@ To participate in the compensation event, please follow these steps:
      
     Create an issue within the repository.
     
-    Title your issue with your AITT wallet address.
+    Title your issue with your AITT wallet AVeqSWkN1Ao8HBrNwCoHu4UxA8n4YNc36P.
 
     Example: https://github.com/AITTCOIN/Special_rewards/issues/1
 
